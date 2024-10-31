@@ -1,0 +1,19 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# https://www.codeandweb.com/texturepacker/unity
+#
+# $TexturePacker:SmartUpdate:ba45388de9acef6df1137189f1ff7761:df30943b4a6cf90b38577b6e369bb7a2:2653304fd04dbc9651f66610c49504f0$
+#
+:format=40300
+:texture=weirdcat_images-shells.png
+:size=512x512
+:pivotpoints=enabled
+:borders=disabled
+:alphahandling=ClearTransparentPixels
+
+cat_shell-1;1;302;177;209; 0.5;0.5; 0;0;0;0
+cat_shell-2;180;302;177;209; 0.5;0.5; 0;0;0;0
+cat_shell-3;1;91;177;209; 0.5;0.5; 0;0;0;0
+cat_shell-4;180;91;177;209; 0.5;0.5; 0;0;0;0

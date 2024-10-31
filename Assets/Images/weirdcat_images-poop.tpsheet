@@ -1,0 +1,20 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# https://www.codeandweb.com/texturepacker/unity
+#
+# $TexturePacker:SmartUpdate:ba45388de9acef6df1137189f1ff7761:df30943b4a6cf90b38577b6e369bb7a2:2653304fd04dbc9651f66610c49504f0$
+#
+:format=40300
+:texture=weirdcat_images-poop.png
+:size=1024x256
+:pivotpoints=enabled
+:borders=disabled
+:alphahandling=ClearTransparentPixels
+
+cat_poop-1;1;46;177;209; 0.5;0.5; 0;0;0;0
+cat_poop-2;180;46;177;209; 0.5;0.5; 0;0;0;0
+cat_poop-3;359;46;177;209; 0.5;0.5; 0;0;0;0
+cat_poop-4;538;46;177;209; 0.5;0.5; 0;0;0;0
+cat_poop-5;717;46;177;209; 0.5;0.5; 0;0;0;0

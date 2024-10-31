@@ -1,0 +1,30 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# https://www.codeandweb.com/texturepacker/unity
+#
+# $TexturePacker:SmartUpdate:ba45388de9acef6df1137189f1ff7761:df30943b4a6cf90b38577b6e369bb7a2:2653304fd04dbc9651f66610c49504f0$
+#
+:format=40300
+:texture=weirdcat_images-sad.png
+:size=2048x2048
+:pivotpoints=enabled
+:borders=disabled
+:alphahandling=ClearTransparentPixels
+
+cat_sad-1;1;1562;356;485; 0.5;0.5; 0;0;0;0
+cat_sad-2;359;1562;356;485; 0.5;0.5; 0;0;0;0
+cat_sad-3;717;1562;356;485; 0.5;0.5; 0;0;0;0
+cat_sad-4;1075;1562;356;485; 0.5;0.5; 0;0;0;0
+cat_sad-5;1433;1562;356;485; 0.5;0.5; 0;0;0;0
+cat_sad-6;1;1075;356;485; 0.5;0.5; 0;0;0;0
+cat_sad-7;359;1075;356;485; 0.5;0.5; 0;0;0;0
+cat_sad-8;717;1075;356;485; 0.5;0.5; 0;0;0;0
+cat_sad-9;1075;1075;356;485; 0.5;0.5; 0;0;0;0
+cat_sad-10;1433;1075;356;485; 0.5;0.5; 0;0;0;0
+cat_sad-11;1;588;356;485; 0.5;0.5; 0;0;0;0
+cat_sad-12;359;588;356;485; 0.5;0.5; 0;0;0;0
+cat_sad-13;717;588;356;485; 0.5;0.5; 0;0;0;0
+cat_sad-14;1075;588;356;485; 0.5;0.5; 0;0;0;0
+cat_sad-15;1433;588;356;485; 0.5;0.5; 0;0;0;0
