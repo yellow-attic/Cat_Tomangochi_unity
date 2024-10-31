@@ -1,0 +1,24 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# https://www.codeandweb.com/texturepacker/unity
+#
+# $TexturePacker:SmartUpdate:061bfa18a14e6c00c945a5db87bc722c:df30943b4a6cf90b38577b6e369bb7a2:60b5eacf55fd4a1bd82ae6a6f30e4b33$
+#
+:format=40300
+:texture=image-happy.png
+:size=2048x1024
+:pivotpoints=enabled
+:borders=disabled
+:alphahandling=ClearTransparentPixels
+
+cat_happy-1;1;538;356;485; 0.5;0.5; 0;0;0;0
+cat_happy-2;359;538;356;485; 0.5;0.5; 0;0;0;0
+cat_happy-3;717;538;356;485; 0.5;0.5; 0;0;0;0
+cat_happy-4;1075;538;356;485; 0.5;0.5; 0;0;0;0
+cat_happy-5;1433;538;356;485; 0.5;0.5; 0;0;0;0
+cat_happy-6;1;51;356;485; 0.5;0.5; 0;0;0;0
+cat_happy-7;359;51;356;485; 0.5;0.5; 0;0;0;0
+cat_happy-8;717;51;356;485; 0.5;0.5; 0;0;0;0
+cat_happy-9;1075;51;356;485; 0.5;0.5; 0;0;0;0

@@ -1,0 +1,20 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# https://www.codeandweb.com/texturepacker/unity
+#
+# $TexturePacker:SmartUpdate:061bfa18a14e6c00c945a5db87bc722c:df30943b4a6cf90b38577b6e369bb7a2:60b5eacf55fd4a1bd82ae6a6f30e4b33$
+#
+:format=40300
+:texture=image-foodeffect.png
+:size=1024x256
+:pivotpoints=enabled
+:borders=disabled
+:alphahandling=ClearTransparentPixels
+
+cat_effect-1;1;46;177;209; 0.5;0.5; 0;0;0;0
+cat_effect-2;180;46;177;209; 0.5;0.5; 0;0;0;0
+cat_effect-3;359;46;177;209; 0.5;0.5; 0;0;0;0
+cat_effect-4;538;46;177;209; 0.5;0.5; 0;0;0;0
+cat_effect-5;717;46;177;209; 0.5;0.5; 0;0;0;0

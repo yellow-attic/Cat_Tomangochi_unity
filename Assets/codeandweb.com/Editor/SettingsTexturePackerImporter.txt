@@ -1,0 +1,29 @@
+version: 2
+tpsheetFileNames:
+- Assets/codeandweb.com/Example/SpriteSheet/sprites.tpsheet
+- Assets/Images/image-foodeffect.tpsheet
+- Assets/Images/image-happy.tpsheet
+- Assets/Images/image-herz.tpsheet
+- Assets/Images/image-idle.tpsheet
+- Assets/Images/image-poop.tpsheet
+- Assets/Images/image-sad.tpsheet
+- Assets/Images/image-shells.tpsheet
+textureFileNames:
+- Assets/codeandweb.com/Example/SpriteSheet/sprites.png
+- Assets/Images/image-foodeffect.png
+- Assets/Images/image-happy.png
+- Assets/Images/image-herz.png
+- Assets/Images/image-idle.png
+- Assets/Images/image-poop.png
+- Assets/Images/image-sad.png
+- Assets/Images/image-shells.png
+normalmapFileNames:
+- Assets/codeandweb.com/Example/SpriteSheet/sprites_n.png
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+enableDebugOutput: 0

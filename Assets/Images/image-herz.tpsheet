@@ -1,0 +1,21 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# https://www.codeandweb.com/texturepacker/unity
+#
+# $TexturePacker:SmartUpdate:061bfa18a14e6c00c945a5db87bc722c:df30943b4a6cf90b38577b6e369bb7a2:60b5eacf55fd4a1bd82ae6a6f30e4b33$
+#
+:format=40300
+:texture=image-herz.png
+:size=1024x2048
+:pivotpoints=enabled
+:borders=disabled
+:alphahandling=ClearTransparentPixels
+
+cat_herz-1;1;1562;356;485; 0.5;0.5; 0;0;0;0
+cat_herz-2;359;1562;356;485; 0.5;0.5; 0;0;0;0
+cat_herz-3;1;1075;356;485; 0.5;0.5; 0;0;0;0
+cat_herz-4;359;1075;356;485; 0.5;0.5; 0;0;0;0
+cat_herz-5;1;588;356;485; 0.5;0.5; 0;0;0;0
+cat_herz-6;359;588;356;485; 0.5;0.5; 0;0;0;0
