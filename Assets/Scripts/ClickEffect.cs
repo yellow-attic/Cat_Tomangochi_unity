@@ -3,6 +3,8 @@ using UnityEngine;
 
 public class ClickEffect : MonoBehaviour
 {
+    [SerializeField] private AudioSource backgroundsound;
+
     [SerializeField] private Sprite[] Sprites;
     [SerializeField] private float frameDuration = 0.1f;
 
@@ -14,6 +16,18 @@ public class ClickEffect : MonoBehaviour
         if (Input.GetMouseButtonDown(0)) // 检测鼠标左键点击
         {
             StartCoroutine(CreateClickEffect());
+        }
+
+        if (Input.GetKeyUp(KeyCode.Tab))
+        {
+            if (backgroundsound.enabled == true)
+            {
+                backgroundsound.enabled = false;
+            }
+            else
+            {
+                backgroundsound.enabled = true;
+            }
         }
     }
 
